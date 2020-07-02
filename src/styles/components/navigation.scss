@@ -1,0 +1,237 @@
+.nav {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 3;
+  width: 100%;
+  background: white;
+
+  &.scroll {
+    box-shadow: 1px 2px 6px rgba(0, 0, 0, 0.1);
+  }
+
+  .nav-container {
+    padding: 0 1.5rem;
+    height: 55px;
+    max-width: $width-extended;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    transition: height 0.3s ease;
+  }
+
+  .brand {
+    a {
+      display: flex;
+      align-items: center;
+      color: #333;
+      font-weight: 500;
+      font-size: 1.15rem;
+
+      border-radius: 0.3rem;
+      border-bottom: none;
+
+      &:hover,
+      &:focus {
+        color: black;
+        background: rgba(0, 0, 0, 0.05);
+      }
+    }
+
+    .text {
+      display: block;
+    }
+
+    .brand-icon {
+      display: none;
+      font-size: 2.3rem;
+      margin-right: 0.75rem;
+      margin-bottom: 0.2rem;
+    }
+  }
+
+  .links {
+    display: none;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    margin: 0;
+
+    a {
+      display: flex;
+      align-items: center;
+      font-size: 1.05rem;
+      font-weight: 400;
+      padding: 0.75rem;
+      margin: 0.25rem;
+      color: rgba(0, 0, 0, 0.6);
+      line-height: 1.2;
+      text-align: center;
+      border-radius: $border-radius;
+
+      &:hover,
+      &:active,
+      &.active {
+        color: #111;
+        background: rgba(0, 0, 0, 0.05);
+      }
+    }
+  }
+}
+
+.favicon {
+  height: 23px;
+  width: 23px;
+  min-width: 23px;
+  margin-right: 1rem;
+  margin-bottom: 0;
+}
+
+@media (min-width: 1000px) {
+  .brand {
+    a {
+      padding: 0 1rem;
+    }
+  }
+}
+
+@include small-breakpoint {
+  .nav-container {
+    padding: 0 2rem!important;
+    svg {
+      position: absolute;
+      right: 0.75rem;
+    }
+  }
+}
+
+@include breakpoint-nav {
+  .nav {
+    &.scroll {
+      .nav-container {
+        height: 60px;
+      }
+    }
+
+    .nav-container {
+      height: 100px;
+      padding: 0 2rem;
+    }
+
+    .brand {
+      a {
+        font-size: 1.3rem;
+      }
+
+      .text {
+        display: block;
+      }
+
+      .brand-icon {
+        display: flex;
+      }
+    }
+
+    .links {
+      display: flex;
+      flex-direction: row;
+      justify-content: flex-end;
+      height: 100%;
+
+      a {
+        font-size: 1.2rem;
+        margin: 0 0.5rem;
+        padding: 1rem;
+        border-bottom: 2px solid transparent;
+      }
+
+      .link-button {
+        color: #FFFFFF;
+        background: darken($primary-color, 5%);
+        text-decoration: none;
+      }
+    }
+
+    .favicon {
+      margin-right: 1rem;
+    }
+  }
+
+  @media print {
+    .nav {
+      display: none;
+    }
+  }
+}
+
+// Mobile Nav
+
+@media (min-width: 750px) {
+  .mobile-menu {
+    display: none;
+    .mobile-nav {
+      display: none;
+    }
+  }
+}
+
+@media (max-width: 750px) {
+  .mobile-menu {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  .is-opened {
+    .close {
+      display: block;
+      z-index: 11;
+      position: absolute;
+      top: 0.5rem;
+      right: 0.5rem;
+    }
+    .open {
+      display: none;
+    }
+    .mobile-nav {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+  
+      position: fixed;
+      top: 0;
+      left: 0;
+      z-index: 10;
+  
+      background: white;
+      height: 100vh;
+      width: 100%;
+  
+      font-size: 16px;
+      line-height: 30px;
+  
+      a {
+        display: inline-block;
+        margin: 10px 0;
+        text-decoration: none;
+      }
+    }
+  }
+  .is-closed {
+    .open {
+      display: block;
+      position: absolute;
+      top: 0.5rem;
+      right: 0.5rem;
+    }
+    .close {
+      display: none;
+    }
+    .mobile-nav {
+      display: none;
+    }
+  }
+}
