@@ -4,7 +4,7 @@ slug: secret
 template: page
 ---
 
-This is an inofficial page to cherish the awesomeness and silliness of our members.
+This is an unofficial page to cherish the awesomeness and silliness of our members.
 Most of the pictures below where taken while or after one of our famous socials.
 
 ---
