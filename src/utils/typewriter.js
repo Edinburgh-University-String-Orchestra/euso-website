@@ -22,7 +22,7 @@ export class Typewriter extends React.Component {
   <span className={this.props.className}>
     <Typist
       className="typist"
-      startDelay={this.state.counter === 0 ? 750 : 0}
+      startDelay={this.state.counter === 0 ? 1200 : 0}
       stdTypingDelay={50}
       avgTypingDelay={120}
       cursor={{ show: false }}

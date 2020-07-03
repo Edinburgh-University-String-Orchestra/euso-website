@@ -5,11 +5,11 @@ template: page
 ---
 
 This is an unofficial page to cherish the awesomeness and silliness of our members.
-Most of the pictures below where taken while or after one of our famous socials.
+Most of the pictures below where taken at or after one of our famous socials.
 
 ---
-**#1 EUSO Diary – 20/07/20**
+**#1 EUSO Diary – 20/02/07**
 
-After a priceless evening at Dan's flat, Eric decided to go home.
+Leila and Eric at our annual ceilidh. Too much booze & too much fun.
 
-![headshot of andrew](../images/headshots/andrew.jpg)
+![headshot of andrew](../images/diary/ceilidh.jpg)
