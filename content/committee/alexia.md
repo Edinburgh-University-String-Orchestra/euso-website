@@ -3,7 +3,6 @@ title: 'Alexia Alice Cochrone – Publicity Manager'
 template: committee
 thumbnail: '../images/headshots/alexia.jpg'
 slug: committee-alexia
-role: 'publicity manager'
 featured: false
 ---
 

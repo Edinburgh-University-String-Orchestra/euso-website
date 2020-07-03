@@ -65,7 +65,6 @@ export const pageQuery = graphql`
         slug
         date
         categories
-        role
         tags
         template
       }

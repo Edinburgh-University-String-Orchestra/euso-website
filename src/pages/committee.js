@@ -39,7 +39,7 @@ export default function BlogIndex({ data }) {
 export const pageQuery = graphql`
   query CommitteeQuery {
     allMarkdownRemark(
-      sort: { fields: [frontmatter___role], order: ASC }
+      sort: { order: [DESC, ASC], fields: [frontmatter___featured, frontmatter___title] }
       filter: { frontmatter: { template: { eq: "committee" } } }
     ) {
       edges {

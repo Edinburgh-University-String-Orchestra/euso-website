@@ -3,7 +3,6 @@ title: 'Hannah Williams-Brown – Secretary'
 template: committee
 thumbnail: '../images/headshots/hannah.jpg'
 slug: committee-hannah
-role: 'secretary'
 featured: true
 ---
 
