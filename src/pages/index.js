@@ -7,7 +7,8 @@ import { Typewriter } from '../utils/typewriter'
 import SEO from '../components/SEO'
 import config from '../../data/SiteConfig'
 
-import cover from '../../content/images/covers/cover-one.jpg'
+import orchestraOne from '../../content/images/orchestra-1.jpg'
+import orchestraTwo from '../../content/images/orchestra-2.jpg'
 import outreach from '../../content/images/outreach-1.jpg'
 
 export default class Index extends Component {
@@ -39,7 +40,7 @@ export default class Index extends Component {
               </h1>
               <div className="parallel">
                 <div className="left shadow round">
-                  <img src={cover} alt="violin players" />
+                  <img src={orchestraOne} alt="violin players" />
                 </div>
                 <div className="right">
                   <p>
@@ -96,20 +97,27 @@ export default class Index extends Component {
                 </div>
               </div>
               <hr />
-              <div className="single">
-                <h2>Join us</h2>
-                <p>
-                  {`We are an ensemble of around 25 string players, rehearsing every
-                  Wednesday afternoon from 2.30 - 5.30pm to work towards concerts at
-                  the end of each semester. We play a wide variety of music from Handel
-                  to Shostakovich and Strauss to Britten and we work with a range of
-                  prestigious conductors who help us maintain a very high standard.
-                  We welcome students from every faculty, as well as non-students.`}
-                </p>
+              <div className="parallel">
+                <div className="left">
+                  <p>
+                    <h2>Join us</h2>
+                    {`We are an ensemble of around 25 string players, rehearsing every
+                    Wednesday afternoon from 2.30 - 5.30pm to work towards concerts at
+                    the end of each semester. We play a wide variety of music from Handel
+                    to Shostakovich and Strauss to Britten and we work with a range of
+                    prestigious conductors who help us maintain a very high standard.
+                    We welcome students from every faculty, as well as non-students.`}
+                    <br />
+                    <br />
+                    <Link to="/join/">
+                      → More Information
+                    </Link>
+                  </p>
+                </div>
+                <div className="right round shadow">
+                  <img src={orchestraTwo} alt="orchestra playing Beethoven" />
+                </div>
               </div>
-              <Link to="/join/">
-                → More Information
-              </Link>
               <hr />
               <div className="single">
                 <h2>Miscellaneous</h2>

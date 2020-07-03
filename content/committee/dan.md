@@ -3,6 +3,7 @@ title: 'Dan Safford – Social Secretary'
 template: committee
 thumbnail: '../images/headshots/dan.jpg'
 slug: committee-dan
+role: 'social secretary'
 featured: false
 ---
 

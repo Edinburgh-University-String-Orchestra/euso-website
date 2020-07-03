@@ -3,6 +3,7 @@ title: 'Nathalie Weibel – Society Librarian'
 template: committee
 thumbnail: '../images/headshots/nathalie.jpg'
 slug: committee-nathalie
+role: 'society librarian'
 featured: false
 ---
 

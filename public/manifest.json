@@ -2,6 +2,7 @@
   "main.js": "render-page.js",
   "main.js.map": "render-page.js.map",
   "static/constitution-2020-03.pdf": "static/constitution-2020-03-56f89d2d23312cb87f6a188fb0387377.pdf",
-  "static/cover-one.jpg": "static/cover-one-a862ac413434aaf81c4fa12fdc4f67b4.jpg",
+  "static/orchestra-1.jpg": "static/orchestra-1-a862ac413434aaf81c4fa12fdc4f67b4.jpg",
+  "static/orchestra-2.jpg": "static/orchestra-2-be33192a927c2f517938bb157cf2ad4d.jpg",
   "static/outreach-1.jpg": "static/outreach-1-829fbee8b769b1dd8dd583b2663ff217.jpg"
 }

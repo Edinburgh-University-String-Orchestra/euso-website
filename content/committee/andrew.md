@@ -3,6 +3,7 @@ title: 'Andrew Taheny – President'
 template: committee
 thumbnail: '../images/headshots/andrew.jpg'
 slug: committee-andrew
+role: 'president'
 featured: true
 ---
 

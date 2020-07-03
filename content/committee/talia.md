@@ -3,6 +3,7 @@ title: 'Talia Sanders – Tour Committee'
 template: committee
 thumbnail: '../images/headshots/talia.jpg'
 slug: committee-talia
+role: 'tour committee'
 featured: false
 ---
 

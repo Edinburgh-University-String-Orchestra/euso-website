@@ -3,6 +3,7 @@ title: 'Elizabeth Ho – Sponsoring and Fundraising'
 template: committee
 thumbnail: '../images/headshots/elizabeth.jpg'
 slug: committee-elizabeth
+role: 'sponsoring and fundraising'
 featured: false
 ---
 

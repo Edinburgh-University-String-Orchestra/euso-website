@@ -3,6 +3,7 @@ title: 'Will Huxtable – Outreach Officer'
 template: committee
 thumbnail: '../images/headshots/will.jpg'
 slug: committee-will
+role: 'outreach officer'
 featured: false
 ---
 

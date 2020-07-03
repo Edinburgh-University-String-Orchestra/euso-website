@@ -3,6 +3,7 @@ title: 'Leila Cruickshank – Publicity Manager'
 template: committee
 thumbnail: '../images/headshots/leila.jpg'
 slug: committee-leila
+role: 'publicity manager'
 featured: false
 ---
 

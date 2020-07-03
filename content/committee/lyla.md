@@ -3,6 +3,7 @@ title: 'Lyla Taguma – Society Treasurer'
 template: committee
 thumbnail: '../images/headshots/lyla.jpg'
 slug: committee-lyla
+role: 'society treasurer'
 featured: true
 ---
 

@@ -3,6 +3,7 @@ title: 'Raphael Gould – Tour Committee'
 template: committee
 thumbnail: '../images/headshots/raphael.jpg'
 slug: committee-raphael
+role: 'tour committee'
 featured: false
 ---
 
