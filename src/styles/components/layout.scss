@@ -1233,10 +1233,22 @@ blockquote {
     font-weight: 400;
     color: rgba(0, 0, 0, 0.6);
     display: block;
-    margin-right: 1.5rem;
 
     &:hover {
       color: rgba(0, 0, 0, 0.8);
+    }
+  }
+
+  .left-side {
+    a {
+      margin-right: 1.5rem;
+    }
+  }
+
+  .right-side {
+    a {
+      margin-left: 0;
+      margin-right: 1.5rem;
     }
   }
 
@@ -1261,6 +1273,12 @@ blockquote {
     margin: 60px auto;
     flex-direction: row;
     height: 100px;
+    .right-side {
+      a {
+        margin-left: 1.5rem;
+        margin-right: 0;
+      }
+    }
   }
 }
 
