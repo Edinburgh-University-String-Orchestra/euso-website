@@ -131,11 +131,11 @@ export default class Index extends Component {
               </Link>
               <br />
               <Link to="/sponsors/">
-                → Sponsor us
+                ↗ Sponsor us
               </Link>
               <br />
               <Link to="/contact/#follow-us">
-                → Follow us
+                ↗ Follow us
               </Link>
             </div>
           </div>
