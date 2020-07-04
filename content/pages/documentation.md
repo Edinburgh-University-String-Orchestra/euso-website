@@ -1,3 +1,11 @@
+---
+title: 'Documentation'
+slug: documentation
+template: page
+---
+
+*This information is also publicly available on our [GitHub repository](https://github.com/Edinburgh-University-String-Orchestra/euso-website).*
+
 # EUSO Website
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
