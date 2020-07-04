@@ -50,7 +50,7 @@ export default class Index extends Component {
                      quality concerts in the University.`}
                   </p>
                   <Link to="/concerts/">
-                    → Upcoming Concerts
+                    ↳ Upcoming Concerts
                   </Link>
                 </div>
               </div>
@@ -123,11 +123,11 @@ export default class Index extends Component {
                 <h2>Miscellaneous</h2>
               </div>
               <Link to="/about/">
-                → Our Story
+                ↳ Our Story
               </Link>
               <br />
               <Link to="/social/">
-                → Social Life
+                ↳ Social Life
               </Link>
               <br />
               <Link to="/sponsors/">
