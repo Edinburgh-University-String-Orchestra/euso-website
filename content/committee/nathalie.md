@@ -12,4 +12,4 @@ Here are a few words from Nathalie:
 
 > Hello, I’m Nathalie.
 
-[→ Contact information](/contact/)
+[Contact information](/contact/)

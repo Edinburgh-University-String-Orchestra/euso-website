@@ -12,4 +12,4 @@ Here are a few words from Alexia:
 
 > Hi! I’m Alexia and I’m a third year medical student. I’m the Publicity Mangager for the orchestra this year.
 
-[→ Contact information](/contact/)
+[Contact information](/contact/)

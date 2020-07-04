@@ -60,7 +60,7 @@ export default function BlogIndex({ data }) {
           <Guides data={simplifiedPosts} />
           <p>
             <br />
-            <Link to="/committee/">→ Whole committee</Link>
+            <Link to="/committee/">Whole committee</Link>
           </p>
         </section>
       </div>

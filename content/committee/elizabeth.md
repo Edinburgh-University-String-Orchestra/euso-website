@@ -13,4 +13,4 @@ Here are a few words from Elizabeth:
 
 > Hi, I'm Elizabeth.
 
-[→ Contact information](/contact/)
+[Contact information](/contact/)

@@ -16,7 +16,7 @@ We will keep you updated. Make sure to subscribe to our [mailing list](/newslett
 
 <!--
 The concert is going to take place at **20 Nov 2020** in [Reid Hall](maps).
-[→ Save the date](../events/concert.ics)
+[Save the date](../events/concert.ics)
 -->
 
 

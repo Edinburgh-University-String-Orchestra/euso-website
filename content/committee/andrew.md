@@ -13,5 +13,5 @@ Here are a few words from Andrew:
 
 > Hi! I'm Andrew, and I'm a 3rd year Music student, as well as EUSO's President for this academic year. I can't wait to get into what's sure to be some challenging and inspiring rep and welcome our new members to the EUSO family!
 
-[→ Contact information](/contact/)
+[Contact information](/contact/)
  

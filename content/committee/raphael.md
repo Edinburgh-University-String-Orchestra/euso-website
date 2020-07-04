@@ -12,5 +12,5 @@ Here are a few words from Raph:
 
 > Hello, I’m Raph.
 
-[→ More information about our annual tour](/tour/)<br/>
-[→ Contact information](/contact/)
+[More information about our annual tour](/tour/)<br/>
+[Contact information](/contact/)

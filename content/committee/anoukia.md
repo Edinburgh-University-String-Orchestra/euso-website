@@ -12,5 +12,5 @@ Here are a few words from Anoukia:
 
 > Hi, I'm Anoukia.
 
-[→ More about outreach](/outreach/)<br/>
-[→ Contact information](/contact/)
+[More about outreach](/outreach/)<br/>
+[Contact information](/contact/)

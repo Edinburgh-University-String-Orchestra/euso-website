@@ -50,7 +50,7 @@ export default class Index extends Component {
                      quality concerts in the University.`}
                   </p>
                   <Link to="/concerts/">
-                    ↳ Upcoming Concerts
+                    Upcoming Concerts
                   </Link>
                 </div>
               </div>
@@ -67,7 +67,7 @@ export default class Index extends Component {
             <PostListing simple postEdges={latestPostEdges} />
             <div className="lead">
               <Link to="/news/">
-                → More News
+                More News
               </Link>
             </div>
           </section>
@@ -88,7 +88,7 @@ export default class Index extends Component {
                     <br />
                     <br />
                     <Link to="/outreach/">
-                      → Get in Touch
+                      Get in Touch
                     </Link>
                   </p>                  
                 </div>
@@ -110,7 +110,7 @@ export default class Index extends Component {
                     <br />
                     <br />
                     <Link to="/join/">
-                      → More Information
+                      More Information
                     </Link>
                   </p>
                 </div>
@@ -123,19 +123,19 @@ export default class Index extends Component {
                 <h2>Miscellaneous</h2>
               </div>
               <Link to="/about/">
-                ↳ Our Story
+                Our Story
               </Link>
               <br />
               <Link to="/social/">
-                ↳ Social Life
+                Social Life
               </Link>
               <br />
               <Link to="/sponsors/">
-                ↗ Sponsor us
+                Sponsor us
               </Link>
               <br />
               <Link to="/contact/#follow-us">
-                ↗ Follow us
+                Follow us
               </Link>
             </div>
           </div>

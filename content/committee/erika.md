@@ -13,4 +13,4 @@ Here are a few words from Erika:
 
 > Hi, I'm Erika.
 
-[→ Contact information](/contact/)
+[Contact information](/contact/)

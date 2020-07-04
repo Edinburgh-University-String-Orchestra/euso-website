@@ -12,7 +12,7 @@ We try to have as much fun as possible outside of rehearsals! Our social secreta
 
 One of the most exciting things EUSO offers is the chance to go on EUSO Tour after the May exams, when we visit some of Scotland's most beautiful places for days of socialising, rehearsing, and concerts. Tour is a highlight of the EUSO year as you get to play some fabulous music, make some great friends and enjoy the stunning Scottish scenery.
 
-[→ More about our annual tour](/tour/)
+[More about our annual tour](/tour/)
 
 
 ---

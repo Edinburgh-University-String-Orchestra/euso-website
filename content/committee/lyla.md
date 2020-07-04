@@ -12,4 +12,4 @@ Here are a few words from Lyla:
 
 > Hey, I'm Lyla, this year's treasurer.
 
-[→ Contact information](/contact/)
+[Contact information](/contact/)
