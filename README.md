@@ -182,7 +182,6 @@ Solution:
 
   - Run `gatsby clean` and close the localhose tab in your browser
   - Double check the path to your image
-  - 
 
 Explanation: This is an issue which is related to the Gatsby cache. Gatsby creates a cache so that it doesn't have to load images / videos etc. every single time in case they don't change. Sometimes the cache doesn't get updated automatically, that's why this issue occurs.
 
