@@ -8,4 +8,4 @@ EUSO is passionate about engaging with the community in Edinburgh and helping to
 
 ![EUSO members standing in front of a care home](../images/outreach-2.jpg)
 
-If you are interested in organising a project with us or would like to find out more about the work we do, please [contact](/contact/) our outreach managers Anoukia and Will.
+If you are interested in organising a project with us or would like to find out more about the work we do, please [contact](/contact/) our Outreach Officers Anoukia and Will.
