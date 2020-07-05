@@ -173,3 +173,26 @@ Once you've updated the content you want to publish them under our https://strin
   - Click on 'Deploy from HEAD'
 
 Congratulations, you're updates should now (or within a few seconds) be online!
+
+## Troubleshooting / Known Issues
+
+**1. I have given a correct path to my image but I can't see it on my localhost site.**
+
+Solution: 
+
+  - Run `gatsby clean` and close the localhose tab in your browser
+  - Double check the path to your image
+  - 
+
+Explanation: This is an issue which is related to the Gatsby cache. Gatsby creates a cache so that it doesn't have to load images / videos etc. every single time in case they don't change. Sometimes the cache doesn't get updated automatically, that's why this issue occurs.
+
+**2. `gatsby develop` shows a perfectly fine website on my localhost but when I run `gatsby serve` to double-check, it only shows a white screen.**
+
+Solution:
+
+There can be many reasons for this, an easy way to find out what's stopping the website from runnig smoothly is this process:
+
+  - Open the developer tools (in popular browsers: `Cmd + Alt + i`) and click on the top right icon for errors
+  - Fix the error(s)
+  
+Explanation: I'm quite sure that has something to do with the [difference of runtime and buildtime](https://www.gatsbyjs.org/docs/overview-of-the-gatsby-build-process/#differences-between-develop-and-build)
