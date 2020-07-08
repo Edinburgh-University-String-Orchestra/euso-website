@@ -80,26 +80,6 @@ export default class Index extends Component {
               <div className="parallel">
                 <div className="left">
                   <p>
-                    <h2>Outreach Events</h2>
-                    {`EUSO is passionate about engaging with the community in Edinburgh and helping
-                    to spread the joy of music to everyone. We frequently work with care homes and
-                    charities and perform pop-up concerts in public spaces such as Waverley Mall.
-                    `}
-                    <br />
-                    <br />
-                    <Link to="/outreach/">
-                      Get in Touch
-                    </Link>
-                  </p>                  
-                </div>
-                <div className="right round shadow">
-                  <img src={outreach} alt="Alexia explaining to young students how a violin works" />
-                </div>
-              </div>
-              <hr />
-              <div className="parallel">
-                <div className="left">
-                  <p>
                     <h2>Join us</h2>
                     {`We are an ensemble of around 25 string players, rehearsing every
                     Wednesday afternoon from 2.30 - 5.30pm to work towards concerts at
@@ -116,6 +96,26 @@ export default class Index extends Component {
                 </div>
                 <div className="right round shadow">
                   <img src={orchestraTwo} alt="orchestra playing Beethoven" />
+                </div>
+              </div>
+              <hr />
+              <div className="parallel">
+                <div className="left">
+                  <p>
+                    <h2>Outreach Events</h2>
+                    {`EUSO is passionate about engaging with the community in Edinburgh and helping
+                    to spread the joy of music to everyone. We frequently work with care homes and
+                    charities and perform pop-up concerts in public spaces such as Waverley Mall.
+                    `}
+                    <br />
+                    <br />
+                    <Link to="/outreach/">
+                      Get in Touch
+                    </Link>
+                  </p>                  
+                </div>
+                <div className="right round shadow">
+                  {/* <img src={outreach} alt="Alexia explaining to young students how a violin works" /> Change order of paragraph(before Join us) */}
                 </div>
               </div>
               <hr />
