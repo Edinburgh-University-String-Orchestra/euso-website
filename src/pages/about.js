@@ -29,7 +29,7 @@ export default function BlogIndex({ data }) {
             a second year music student at the time. The debut concert was conducted by Emre on
             1st February 1992 in the Reid Concert Hall. A review in the Student newspaper described
             the orchestra’s performance as “truly polished” and remarked on the orchestra’s “huge potential”.
-            Without doubt, the orchestra has lived up to this prediction and continues to deliver high
+            Without a doubt, the orchestra has lived up to this prediction and continues to give high
             quality concerts in the University.
           </p>
           <h4>Diversity</h4>

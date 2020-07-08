@@ -11,7 +11,6 @@ const config = {
   siteDescription:
     'The Edinburgh University String Orchestra, EUSO, is the University of Edinburgh\'s only string ensemble.',
   siteRss: '/rss.xml',
-  googleAnalyticsID: 'UA-165301838-3',
   postDefaultCategoryID: 'Music',
   newsletter: 'https://euso.substack.com',
   newsletterEmbed: 'https://euso.substack.com/embed',

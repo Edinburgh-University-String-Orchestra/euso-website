@@ -45,8 +45,8 @@ export default class Index extends Component {
                 <div className="right">
                   <p>
                     {`EUSO, the University of Edinburgh's only string ensemble,
-                     delivers twice a year a concert performance which has been described as
-                     "truly polished" and "outstanding". The orchestra continues to deliver high
+                     delivers twice a year concert performances which have been described as
+                     "truly polished" and "outstanding". The orchestra continues to give high
                      quality concerts in the University.`}
                   </p>
                   <Link to="/concerts/">
@@ -83,7 +83,7 @@ export default class Index extends Component {
                     <h2>Outreach Events</h2>
                     {`EUSO is passionate about engaging with the community in Edinburgh and helping
                     to spread the joy of music to everyone. We frequently work with care homes and
-                    charities and perform pop up concerts in public spaces such as Waverley Mall.
+                    charities and perform pop-up concerts in public spaces such as Waverley Mall.
                     `}
                     <br />
                     <br />
