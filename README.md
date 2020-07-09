@@ -194,4 +194,4 @@ There can be many reasons for this, an easy way to find out what's stopping the 
   - Open the developer tools (in popular browsers: `Cmd + Alt + i`) and click on the top right icon for errors
   - Fix the error(s)
   
-Explanation: I'm quite sure that has something to do with the [difference of runtime and buildtime](https://www.gatsbyjs.org/docs/overview-of-the-gatsby-build-process/#differences-between-develop-and-build)
+Explanation: I'm quite sure that has something to do with the [difference of runtime and buildtime](https://www.gatsbyjs.org/docs/overview-of-the-gatsby-build-process/#differences-between-develop-and-build).
