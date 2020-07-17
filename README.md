@@ -56,7 +56,7 @@ Link to GitHub
 
 Install Node Packages
 
-  1. Delete any `package-lock.json or `yarn.lock` file you can find.
+  1. Delete any `package-lock.json` or `yarn.lock` file you can find.
   2. Open Terminal within VS Code.
   3. Run `yarn build`.
 
