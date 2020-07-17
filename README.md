@@ -56,7 +56,7 @@ Link to GitHub
 
 Install Node Packages
 
-  1. Delete any package-lock.json or yarn.lock file you can find.
+  1. Delete any `package-lock.json or `yarn.lock` file you can find.
   2. Open Terminal within VS Code.
   3. Run `yarn build`.
 
@@ -138,7 +138,7 @@ tags:
 
   - Paste everything right at the top of your new news article.
   - Change date, title and tags according to your article content.
-  - Change the slug: the slug is going to be the new domain of our article, i.e. on which domain it will be accessible to the puclic. E.g. https://string.eusa.ed.ac.uk/**slug**
+  - Change the slug: the slug is going to be the new domain of our article, i.e. on which domain it will be accessible to the public. E.g. https://string.eusa.ed.ac.uk/**slug**
   - Make sure to use the **same date / title** convention as for the file naming, but don't put a `.md` there
   - Fill your article with content (follow [this guide](https://guides.github.com/features/mastering-markdown/) if you don't know how to use markdown).
 
