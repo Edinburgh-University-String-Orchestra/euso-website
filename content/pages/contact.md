@@ -31,6 +31,6 @@ Just replace `[at]` with a normal `@`. We're happy to hear from you.*
 
 # Follow us
 
-- 🗣 Facebook: [Edinburgh University String Orchestra](https://www.facebook.com/eusorchestra/)
-- 📸 Instagram: [edinstrings](https://www.instagram.com/eusorchestra/)
+- 🗣 Facebook: [eusorchestra](https://www.facebook.com/eusorchestra/)
+- 📸 Instagram: [eusorchestra](https://www.instagram.com/eusorchestra/)
 - 🐦 Twitter: [@eusorchestra](https://twitter.com/eusorchestra/)

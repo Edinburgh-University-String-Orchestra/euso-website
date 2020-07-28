@@ -64,15 +64,6 @@
   Link: </component---src-templates-committee-js-3b5ce18c219ff61008bc.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/committee-anoukia/page-data.json>; rel=preload; as=fetch; crossorigin
-/contact/
-  Link: </webpack-runtime-9a7fcac9d2968d193130.js>; rel=preload; as=script
-  Link: </framework-ded44be464ef802df858.js>; rel=preload; as=script
-  Link: </app-80c565c935414ea1ca21.js>; rel=preload; as=script
-  Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
-  Link: </commons-337a968e1aade5b1f4a1.js>; rel=preload; as=script
-  Link: </component---src-templates-page-js-b89b4de2b88b4d525f2e.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/contact/page-data.json>; rel=preload; as=fetch; crossorigin
 /committee-elizabeth/
   Link: </webpack-runtime-9a7fcac9d2968d193130.js>; rel=preload; as=script
   Link: </framework-ded44be464ef802df858.js>; rel=preload; as=script
@@ -83,6 +74,15 @@
   Link: </component---src-templates-committee-js-3b5ce18c219ff61008bc.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/committee-elizabeth/page-data.json>; rel=preload; as=fetch; crossorigin
+/contact/
+  Link: </webpack-runtime-9a7fcac9d2968d193130.js>; rel=preload; as=script
+  Link: </framework-ded44be464ef802df858.js>; rel=preload; as=script
+  Link: </app-80c565c935414ea1ca21.js>; rel=preload; as=script
+  Link: </styles-c2fe8482057191dca484.js>; rel=preload; as=script
+  Link: </commons-337a968e1aade5b1f4a1.js>; rel=preload; as=script
+  Link: </component---src-templates-page-js-b89b4de2b88b4d525f2e.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/contact/page-data.json>; rel=preload; as=fetch; crossorigin
 /committee-dan/
   Link: </webpack-runtime-9a7fcac9d2968d193130.js>; rel=preload; as=script
   Link: </framework-ded44be464ef802df858.js>; rel=preload; as=script
