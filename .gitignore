@@ -62,3 +62,6 @@ bundle-stats.json
 
 # NVM
 .bash_profile
+
+# VSC
+euso.code-workspace
