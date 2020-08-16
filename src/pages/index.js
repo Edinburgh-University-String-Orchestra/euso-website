@@ -7,9 +7,8 @@ import { Typewriter } from '../utils/typewriter'
 import SEO from '../components/SEO'
 import config from '../../data/SiteConfig'
 
-import orchestraOne from '../../content/images/orchestra-1.jpg'
+import drawing from '../../content/images/drawing.png'
 import orchestraTwo from '../../content/images/orchestra-2.jpg'
-import outreach from '../../content/images/outreach-1.jpg'
 
 export default class Index extends Component {
   render() {
@@ -40,7 +39,7 @@ export default class Index extends Component {
               </h1>
               <div className="parallel">
                 <div className="left shadow round">
-                  <img src={orchestraOne} alt="violin players" />
+                  <img src={drawing} alt="violin players" />
                 </div>
                 <div className="right">
                   <p>
