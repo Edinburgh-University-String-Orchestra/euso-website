@@ -22,6 +22,8 @@ The concert is going to take place at **20 Nov 2020** in [Reid Hall](maps).
 
 ### Past Concerts
 
+You can have a listen to our [repertoire playlist](https://open.spotify.com/playlist/4ykDwDhs3KaaGSAFpgw3n6?si=JH5KjgXVTYiDD4XB3PykNQ) (Spotify).
+
 | Academic Year | Repertoire                                                                                                                                                                                                                                                                                                                                                     |
 |---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2019 - 2020   | `Beethoven: Grosse Fuge, Op. 133`<br/>`Bridge: Three Idylls`<br/>`Britten: Variations on a Theme of Frank Bridge, Op. 10`                                                                                                                                                                                                                                      |
