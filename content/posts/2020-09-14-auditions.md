@@ -2,7 +2,7 @@
 date: 2020-09-14
 title: 'Starting with Auditions'
 template: post
-slug: 2020-09-14
+slug: 2020-09-14-auditions
 categories:
   - News
 tags:
