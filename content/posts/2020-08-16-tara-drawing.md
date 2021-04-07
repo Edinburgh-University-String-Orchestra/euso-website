@@ -13,6 +13,6 @@ tags:
   - 'university of edinburgh'
 ---
 
-As from now, our starting page features art / drawings related to music and orchestra. We are thankful for a first submission by [Tara Schwarze-Chintapatla](https://www.instagram.com/tara___etc___/), a former art and current landscape architecture student.
+As from now, our starting page features art / drawings related to music and orchestra. We are thankful for a first submission by [Tara Schwarze-Chintapatla](https://www.instagram.com/tarasc_art/), a former art and current landscape architecture student.
 
 ![Drawing by Tara Schwarze-Chintapatla](../images/drawing.png)
