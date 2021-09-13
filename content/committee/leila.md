@@ -1,7 +1,7 @@
 ---
 title: 'Leila Cruickshank – Social Secretary'
 template: committee
-thumbnail: '../images/headshots/leila.png'
+thumbnail: '../images/headshots/leila.jpg'
 slug: committee-leila
 featured: false
 ---

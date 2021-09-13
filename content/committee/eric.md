@@ -1,7 +1,7 @@
 ---
 title: 'Eric Janto – Society Webmaster'
 template: committee
-thumbnail: '../images/headshots/eric.png'
+thumbnail: '../images/headshots/eric.jpg'
 slug: committee-eric
 featured: false
 ---

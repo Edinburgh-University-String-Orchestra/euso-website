@@ -1,7 +1,7 @@
 ---
 title: 'Martha Spencer – Sponsoring and Fundraising'
 template: committee
-thumbnail: '../images/headshots/martha.png'
+thumbnail: '../images/headshots/martha.jpg'
 slug: committee-martha
 featured: false
 ---

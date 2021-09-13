@@ -1,7 +1,7 @@
 ---
 title: 'Lyla Taguma – Society Treasurer'
 template: committee
-thumbnail: '../images/headshots/lyla.png'
+thumbnail: '../images/headshots/lyla.jpg'
 slug: committee-lyla
 featured: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Hannah Williams-Brown – President'
 template: committee
-thumbnail: '../images/headshots/hannah.png'
+thumbnail: '../images/headshots/hannah.jpg'
 slug: committee-hannah
 featured: true
 ---

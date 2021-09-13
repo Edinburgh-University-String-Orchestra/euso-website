@@ -1,7 +1,7 @@
 ---
 title: 'Alexia Cochrane – Secretary'
 template: committee
-thumbnail: '../images/headshots/alexia.png'
+thumbnail: '../images/headshots/alexia.jpg'
 slug: committee-alexia
 featured: true
 ---

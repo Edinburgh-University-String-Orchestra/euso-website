@@ -1,7 +1,7 @@
 ---
 title: 'Jenny Benedict – Publicity Manager'
 template: committee
-thumbnail: '../images/headshots/jenny.png'
+thumbnail: '../images/headshots/jenny.jpg'
 slug: committee-jenny
 featured: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Anoukia Nistor – Outreach Officer'
 template: committee
-thumbnail: '../images/headshots/anoukia.png'
+thumbnail: '../images/headshots/anoukia.jpg'
 slug: committee-anoukia
 featured: false
 ---

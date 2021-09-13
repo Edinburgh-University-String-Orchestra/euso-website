@@ -1,7 +1,7 @@
 ---
 title: 'Talia Sanders – Society Librarian'
 template: committee
-thumbnail: '../images/headshots/talia.png'
+thumbnail: '../images/headshots/talia.jpg'
 slug: committee-talia
 featured: false
 ---
