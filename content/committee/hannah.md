@@ -1,15 +1,17 @@
 ---
-title: 'Hannah Williams-Brown – Secretary'
+title: 'Hannah Williams-Brown – President'
 template: committee
-thumbnail: '../images/headshots/hannah.jpg'
+thumbnail: '../images/headshots/hannah.png'
 slug: committee-hannah
 featured: true
 ---
 
-The Secretary is responsible for the administration of EUSO and any correspondence within or behalf of EUSO.
+The President chairs the committee and committee meetings.
+He is responsible for the conduct of EUSO and keeps everything running.
 
 Here are a few words from Hannah:
 
-> Hi! I’m Hannah. I’m a second year music student and EUSO’s secretary for this year. My job is to take care of the society's admin. Looking forward to seeing you at our next one!
+> Hi, I’m Hannah and I’m very excited to be President of EUSO this year. I’m a fourth year music student and I play the cello. Over this summer I was so happy to be able to go to Italy to play in an opera, but of course didn’t manage to get tanned at all. I can’t wait to hopefully play some real life music again this semester!
 
 [Contact information](/contact/)
+ 

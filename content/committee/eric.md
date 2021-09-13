@@ -1,7 +1,7 @@
 ---
 title: 'Eric Janto – Society Webmaster'
 template: committee
-thumbnail: '../images/headshots/eric.jpg'
+thumbnail: '../images/headshots/eric.png'
 slug: committee-eric
 featured: false
 ---
@@ -12,6 +12,6 @@ society website.
 
 Here are a few words from Eric:
 
-> Hi, I'm Eric, a 2nd year AI & Computer Science student. After enjoying the orchestra's welcoming and amazing atmosphere in my first year at Uni, my enthusiasm for playing the violin is back. By volunteering as Webmaster, I wanted to give something back to EUSO.
+> Hi, I’m Eric, a 3rd year AI and computer science student. I spent my summer trying to make friends with my neighbours’ dog Max but he doesn’t seem to like me just yet. This year, I’m responsible for keeping our society website alive.
 
 [Contact information](/contact/)

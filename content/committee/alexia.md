@@ -1,15 +1,15 @@
 ---
-title: 'Alexia Alice Cochrone – Publicity Manager'
+title: 'Alexia Cochrane – Secretary'
 template: committee
-thumbnail: '../images/headshots/alexia.jpg'
+thumbnail: '../images/headshots/alexia.png'
 slug: committee-alexia
-featured: false
+featured: true
 ---
 
-The Publicity Manager's main duty is to promote upcoming projects, concerts and events. Lots of poster making is involved, as well as updating our social media accounts.
+The Secretary is responsible for the administration of EUSO and any correspondence within or behalf of EUSO.
 
 Here are a few words from Alexia:
 
-> Hi! I’m Alexia and I’m a third year medical student. I’m the Publicity Mangager for the orchestra this year.
+> Hello! I’m Alexia and I’m the secretary this year. Apart from making endless cups of tea for Hannah (our president) I play the violin and I study medicine! Looking forward to meeting you all this year ☺️
 
 [Contact information](/contact/)

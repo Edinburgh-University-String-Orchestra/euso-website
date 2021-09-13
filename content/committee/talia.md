@@ -1,16 +1,15 @@
 ---
-title: 'Talia Sanders – Tour Committee'
+title: 'Talia Sanders – Society Librarian'
 template: committee
-thumbnail: '../images/headshots/talia.jpg'
+thumbnail: '../images/headshots/talia.png'
 slug: committee-talia
 featured: false
 ---
 
-The Tour Manager is responsible for organising the annual tour. 
+The Librarian is responsible for acquiring music for the orchestra.
 
 Here are a few words from Talia:
 
-> Hi, my name is Talia and I am in my third year studying Music! I get the privilege of being in the Tour Committee this year whoooooo! Random fact about me... I love a good gym sesh and am down for a partay! Super excited to meet everyone in the Strings fam!
+> My name is Talia Sanders and I’m the librarian for the coming year! I’m going into my final year studying music, with a particular focus on composition. In this orchestra I play viola- we all know how rare they are! This summer I pulled pints at my local pub and even played a few gigs!
 
-[More information about our annual tour](/tour/)<br/>
 [Contact information](/contact/)

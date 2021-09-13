@@ -8,7 +8,7 @@ EUSO works towards concerts at the end of each semester. We play a wide variety 
 
 ### Next Concert
 
-The concert is going to take place at **20 Nov 2020** at the Assembly Roxy.
+The concert is going to take place at **21st Nov 2021** at the Assembly Roxy.
 [Save the date](../events/concert.ics)
 
 

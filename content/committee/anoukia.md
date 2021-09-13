@@ -1,7 +1,7 @@
 ---
 title: 'Anoukia Nistor – Outreach Officer'
 template: committee
-thumbnail: '../images/headshots/anoukia.jpg'
+thumbnail: '../images/headshots/anoukia.png'
 slug: committee-anoukia
 featured: false
 ---
@@ -10,7 +10,7 @@ The Community Outreach Officer looks after our new outreach project and is invol
 
 Here are a few words from Anoukia:
 
-> Hello everyone! I'm Anoukia and I'm a second year studying music. During lockdown, I picked up my calligraphy pen for the first time in years and worked on improving my penmanship! Looking forward to playing some great music with you all!
+> Hi everyone! I’m Anoukia, a Music student and cellist, and this year’s Outreach Manager. This is my third year in EUSO and my second on the committee. Over the summer, Lyla (EUSO Treasurer) and I started busking on the Meadows in Edinburgh, which has been a lot of fun (and a good antidote for stage nerves). I look forward to meeting you all and making music together again!
 
 [More about outreach](/outreach/)<br/>
 [Contact information](/contact/)
