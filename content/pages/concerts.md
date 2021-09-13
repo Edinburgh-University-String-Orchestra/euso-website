@@ -8,16 +8,9 @@ EUSO works towards concerts at the end of each semester. We play a wide variety 
 
 ### Next Concert
 
-Due to the current situation, it is still uncertain whether or when our next concert will take place.
-We will keep you updated. Make sure to subscribe to our [mailing list](/newsletter/).
-
-*Last updated: 30/06/2020*
-
-
-<!--
-The concert is going to take place at **20 Nov 2020** in [Reid Hall](maps).
+The concert is going to take place at **20 Nov 2020** at the Assembly Roxy.
 [Save the date](../events/concert.ics)
--->
+
 
 
 ### Past Concerts
