@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-tags-js",
     "path": "/tags/",
-    "result": {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"art","totalCount":1},{"fieldValue":"auditions","totalCount":3},{"fieldValue":"covid","totalCount":1},{"fieldValue":"edinburgh","totalCount":7},{"fieldValue":"edinburgh university string orchestra","totalCount":7},{"fieldValue":"euso","totalCount":4},{"fieldValue":"positive notes","totalCount":1},{"fieldValue":"university of edinburgh","totalCount":7},{"fieldValue":"viva la vida","totalCount":1}]}},"pageContext":{}},
+    "result": {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"art","totalCount":1},{"fieldValue":"auditions","totalCount":4},{"fieldValue":"covid","totalCount":1},{"fieldValue":"edinburgh","totalCount":8},{"fieldValue":"edinburgh university string orchestra","totalCount":8},{"fieldValue":"euso","totalCount":4},{"fieldValue":"positive notes","totalCount":1},{"fieldValue":"university of edinburgh","totalCount":8},{"fieldValue":"viva la vida","totalCount":1}]}},"pageContext":{}},
     "staticQueryHashes": []}
