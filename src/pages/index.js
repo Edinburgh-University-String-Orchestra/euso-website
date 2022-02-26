@@ -33,7 +33,7 @@ export default class Index extends Component {
                 <br />
                 <Typewriter
                   className="title-desc"
-                  texts={['Mozart', 'Janáček']}
+                  texts={['Tchaikovsky', 'Stevens', 'Coleridge-Taylor']}
                 /><br />
                 <span className="title-desc">at the next concert.</span>
               </h1>
