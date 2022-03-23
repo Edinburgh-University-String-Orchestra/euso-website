@@ -17,4 +17,6 @@ Hey all,
 Our spring concert is coming up soon!
 Please come along on the 3rd April to hear us play an interesting and diverse program.
 
+Tickets are available [here](https://www.eusa.ed.ac.uk/events/id/1107-EUSOSpringConcert).
+
 ![Spring concert poster. 19.30 3rd April @Assembly Roxy](../images/concert-1.png)
