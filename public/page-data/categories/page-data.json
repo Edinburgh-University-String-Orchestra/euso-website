@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-categories-js",
     "path": "/categories/",
-    "result": {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"News","totalCount":8}]}},"pageContext":{}},
+    "result": {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"News","totalCount":9}]}},"pageContext":{}},
     "staticQueryHashes": []}
