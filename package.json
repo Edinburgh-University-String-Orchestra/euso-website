@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "gatsby develop",
     "serve": "gatsby serve",
-    "build": "echo 'Re-building public html' && gatsby build",
+    "build": "echo 'Re-building public html' && gatsby build && git commit -a --no-verify",
     "build:pp": "gatsby build --prefix-paths",
     "build:gh": "yarn run clean && yarn run build:pp && gh-pages -d public",
     "clean": "rm -rf public && rm -rf .cache",
