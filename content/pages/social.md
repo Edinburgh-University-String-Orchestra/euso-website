@@ -6,7 +6,7 @@ template: page
 
 #### Socials
 
-We try to have as much fun as possible outside of rehearsals! Our social secretaries ensure that we have **regular orchestra socials**. Last year these included flat crawls, meals out and our annual ceilidh at Teviot Row House.
+We try to have as much fun as possible outside of rehearsals! Our social secretaries ensure that we have **regular orchestra socials**. Last year these included flat crawls, meals out, going to concerts, and our annual ceilidh.
 
 #### Tour
 
