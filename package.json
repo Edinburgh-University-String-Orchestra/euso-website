@@ -46,7 +46,7 @@
     "katex": "^0.13.18",
     "lodash": "^4.17.15",
     "lodash.kebabcase": "^4.1.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-sass": "^6.0.1",
     "pre-commit": "^1.2.2",
     "prismjs": "^1.19.0",
