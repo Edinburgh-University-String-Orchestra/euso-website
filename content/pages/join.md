@@ -24,4 +24,4 @@ Please include your name, instrument and playing experience, and we will arrange
 We will be at the 
 September EUSA Freshers' Fair at Pleasance, so please come and visit us!
 The exact location will be posted shortly before the event, so make sure to [sign up](/newsletter/) to our mailing list.
-Alternatively, you can email the President for a slot. 
+Alternatively, you can email the president for a slot.

@@ -8,9 +8,9 @@ template: page
 
 Every year, EUSO goes on its famous tour to showcase its talents to the communities of Scotland. It's a great opportunity to get out of the bustle of Edinburgh and escape to the idyll of a distant part of Scotland, as well as to play some exciting repertoire and make lifelong friends.
 
-Tour is not restricted to EUSO members - in fact we encourage everyone to come along! The more the merrier! If you would like to join us, please speak to our tour manager, Raphael Gould.
+Tour is not restricted to EUSO members - in fact we encourage everyone to come along! The more the merrier! If you would like to join us, please [contact](/contact) us.
 
-![Concert Poster for the EUSO Tour 2015](../images/tour-1.jpg)
+![Concert Poster for the EUSO Tour 2022](../images/tour-1.png)
 
 In previous years, the orchestra has had great fun entertaining the people of Mull, Iona, Skye and Arran. The orchestra recently visited the Ullapool area and gave performances in the Ullapool Church of Scotland, Poolewe Village Hall and a chamber music concert in the Aultbea Hotel.
 

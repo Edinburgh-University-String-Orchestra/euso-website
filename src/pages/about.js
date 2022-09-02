@@ -41,10 +41,8 @@ export default function BlogIndex({ data }) {
           </p>
           <h4>Tour</h4>
           <p>
-            Every year, EUSO takes the opportunity to play around Scotland on tour. In 2014, we enjoyed a
-            four-day trip to the Isle of Arran, playing in Brodick, Lamlash and Shiskine to enthusiastic audiences.
-            The following year, we visited Ullapool, and gave performances at Ullapool Church of Scotland,
-            Poolewe Village Hall and the Aultbea Hotel.
+            Every year, EUSO takes the opportunity to play around Scotland on tour. In 2022, we enjoyed a
+            four-day trip to the Isle of Skye, playing in and near Portree to enthusiastic audiences. Find out more <Link to="/tour/">here</Link>.
           </p>
           <h4>Emre Araci Competition</h4>
           <p>

@@ -8,8 +8,7 @@ EUSO works towards concerts at the end of each semester. We play a wide variety 
 
 ### Next Concert
 
-The concert is going to take place at **21st Nov 2021** at the Assembly Roxy.
-[Save the date](../events/concert.ics)
+Most likely, the next concert is going to take place at **19th Nov 2022** at the Reid Hall. The time and place will be confirmed soon, but until then you can [save the date](../events/concert.ics) in your calendar.
 
 
 
@@ -18,7 +17,8 @@ The concert is going to take place at **21st Nov 2021** at the Assembly Roxy.
 You can have a listen to our [repertoire playlist](https://open.spotify.com/playlist/4ykDwDhs3KaaGSAFpgw3n6?si=JH5KjgXVTYiDD4XB3PykNQ) (Spotify).
 
 | Academic Year | Repertoire                                                                                                                                                                                                                                                                                                                                                     |
-|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2021 - 2022   | `Britten: Simple Sympthony`<br/>`Mozart: Eine kleine Nachtmusik`<br/>`Janacek: Suite for Strings`<br/>`Coleridge-Taylor: 4 Novelletten for String Orchestra, Op. 52`<br/>`Sufjan Stevens: Suite from 'Run Rabbit Run'`<br/>`Tchaikovsky: Serenade for String Orchestra, Op. 48`<br/>`Sanders: Suite for String Orchestra`<br/>`Dare: Three Highland Sketches`<br/>`Holst: St. Paul's Suite`                                                                           |
 | 2019 - 2020   | `Beethoven: Grosse Fuge, Op. 133`<br/>`Bridge: Three Idylls`<br/>`Britten: Variations on a Theme of Frank Bridge, Op. 10`                                                                                                                                                                                                                                      |
 | 2018 - 2019   | `Handel: Concerto Grosso, Op. 6 No. 7`<br/>`Bevan-Baker: Rhapsody for Cello and String Orchestra`<br/>`Tippett: Concerto for Double String Orchestra`                                                                                                                                                                                                          |
 | 2017 - 2018   | `Purcell: Chacony in G Minor`<br/>`Sibelius: Rakastava Mastrantonis Stygian Reflections`<br/>`Dvorak: Serenade for Strings`<br/>`Holst: St Paul's Suite`<br/>`Bach Violin Concerto in A Minor`<br/>`Suk: Serenade for Strings`                                                                                                                                 |
