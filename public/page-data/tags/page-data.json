@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-tags-js",
     "path": "/tags/",
-    "result": {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"art","totalCount":1},{"fieldValue":"auditions","totalCount":5},{"fieldValue":"concert","totalCount":1},{"fieldValue":"covid","totalCount":1},{"fieldValue":"edinburgh","totalCount":10},{"fieldValue":"edinburgh university string orchestra","totalCount":10},{"fieldValue":"euso","totalCount":4},{"fieldValue":"positive notes","totalCount":1},{"fieldValue":"university of edinburgh","totalCount":10},{"fieldValue":"viva la vida","totalCount":1}]}},"pageContext":{}},
+    "result": {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"art","totalCount":1},{"fieldValue":"auditions","totalCount":5},{"fieldValue":"concert","totalCount":2},{"fieldValue":"covid","totalCount":1},{"fieldValue":"edinburgh","totalCount":11},{"fieldValue":"edinburgh university string orchestra","totalCount":11},{"fieldValue":"euso","totalCount":4},{"fieldValue":"positive notes","totalCount":1},{"fieldValue":"university of edinburgh","totalCount":11},{"fieldValue":"viva la vida","totalCount":1}]}},"pageContext":{}},
     "staticQueryHashes": []}
