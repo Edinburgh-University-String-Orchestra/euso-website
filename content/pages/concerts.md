@@ -8,7 +8,7 @@ EUSO works towards concerts at the end of each semester. We play a wide variety 
 
 ### Next Concert
 
-Our next concert is going to take place at **20th Nov 2022, 7.30pm** at the Reid Concert Hall. You can
+Our next concert is going to take place in November 2026 at the Reid Concert Hall. You can
 [save the date](../events/concert.ics) in your calendar. More info [here](/2022-10-31-winter-concert).
 
 
