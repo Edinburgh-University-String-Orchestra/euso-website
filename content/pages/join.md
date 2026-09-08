@@ -8,20 +8,29 @@ We are an ensemble of around 25 string players, rehearsing every Wednesday after
 
 ---
 
-If you are interested in joining EUSO, please [contact](/contact/) the president about an audition.
-Please include your name, instrument and playing experience, and we will arrange a time for the audition.
+## Auditions 2026/27
+
+Auditions for the 2026/27 academic year will take place during Welcome Week:
+
+* **Dates:** Thursday 17th & Friday 18th September 2026
+* **Location:** Alison House, Lecture Theatre A
+* **Time:** 9:00am – 5:00pm
+* **What to prepare:** A piece or movement of your choice (approx. 3–5 minutes).
+
+<a href="https://calendly.com/euso-secretary/euso-auditions?month=2026-09" target="_blank" rel="noopener noreferrer">
+  <button class="button">
+    Sign up for an audition slot
+  </button>
+</a>
 
 ---
 
-<!-- We are currently accepting new sign-ups for an audition until Thursday 24th September.
+## Welcome Week Events
 
-<a href="https://forms.gle/jFvfjCwuLMfJCAjb9">
-  <button>
-    Sign up for auditions now
-  </button>
-</a> -->
+Come find us during Welcome Week to chat, ask questions, or play alongside us:
 
-We will be at the 
-September EUSA Freshers' Fair at Pleasance, so please come and visit us!
-The exact location will be posted shortly before the event, so make sure to [sign up](/newsletter/) to our mailing list.
-Alternatively, you can email the president for a slot.
+* **Activities Fair Stall:** Tuesday 15th September, 10:00am – 4:00pm (Bristo Square)
+* **Trio Performance:** Tuesday 15th September at 11:00am (Bristo Square)
+* **EUSO / EUCO Scratch Rehearsal:** Thursday 17th September, 5:00pm – 9:00pm (Reid Concert Hall)
+
+If you have any questions, feel free to [contact us](/contact/) or [join our newsletter](/newsletter/) to stay updated.

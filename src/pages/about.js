@@ -44,12 +44,6 @@ export default function BlogIndex({ data }) {
             Every year, EUSO takes the opportunity to play around Scotland on tour. In 2022, we enjoyed a
             four-day trip to the Isle of Skye, playing in and near Portree to enthusiastic audiences. Find out more <Link to="/tour/">here</Link>.
           </p>
-          <h4>Emre Araci Competition</h4>
-          <p>
-            An annual competition to support and promote new music was proposed in 1998 and so the Emre Araci
-            Composition Competition was born. This gives students the chance to hear their compositions for
-            string orchestra; the winning entry is performed by the orchestra on tour.
-          </p>
           <h1>Our Executives</h1>
           <p>
             A remarkable orchestra cannot exist without remarkable people who

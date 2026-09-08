@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-js",
+    "path": "/tags/orchestra/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/2026-09-07-we-are-back-online/","date":"2026-09-07T00:00:00.000Z"},"excerpt":"After a four-year hiatus, the official Edinburgh University String Orchestra website is finally back up and running! We have refreshed our…","timeToRead":1,"frontmatter":{"title":"We Are Back Online!","tags":["euso","news","website","edinburgh","orchestra"],"categories":["News"],"thumbnail":null,"date":"2026-09-07T00:00:00.000Z","template":"post"}}}]}},"pageContext":{"tag":"orchestra"}},
+    "staticQueryHashes": []}
