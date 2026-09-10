@@ -25,12 +25,10 @@ Just replace `[at]` with a normal `@`. We're happy to hear from you.*
 | Outreach Officer                  | `euso.outreach` `[at]` `gmail.com`   |
 | Publicity Manager                 | `euso.publicity` `[at]` `gmail.com`  |
 | Sponsorship & Fundraising Manager | `eusofundraising` `[at]` `gmail.com` |
-| Webmaster                         | `euso.webmanager` `[at]` `gmail.com` |
+| Webmaster                         | `ainslie` `[at]` `roensdorf.com` |
 
 
 
 # Follow us
 
-- 🗣 Facebook: [eusorchestra](https://www.facebook.com/eusorchestra/)
 - 📸 Instagram: [eusorchestra](https://www.instagram.com/eusorchestra/)
-- 🐦 Twitter: [@eusorchestra](https://twitter.com/eusorchestra/)

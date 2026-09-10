@@ -1,7 +1,7 @@
 ---
 title: 'Saleem – Secretary'
 template: committee
-thumbnail: '../images/headshots/secretary.jpg'
+thumbnail: '../images/headshots/secretary.jpeg'
 slug: committee-secretary
 featured: true
 ---

@@ -7,7 +7,7 @@ import { Typewriter } from '../utils/typewriter'
 import SEO from '../components/SEO'
 import config from '../../data/SiteConfig'
 
-import drawing from '../../content/images/drawing.png'
+import orchestrafromabove from '../../content/images/orchestrafromabove.jpg'
 import orchestraTwo from '../../content/images/orchestra-2.jpg'
 
 export default class Index extends Component {
@@ -33,13 +33,13 @@ export default class Index extends Component {
                 <br />
                 <Typewriter
                   className="title-desc"
-                  texts={['Schubert', 'Handel', 'Holst', 'Anna Clyne', 'Joanna Borrett', 'Britten']}
+                  texts={['Shaw', 'Purcell', 'Bridge', 'Grieg']}
                 /><br />
                 <span className="title-desc">at the next concert.</span>
               </h1>
               <div className="parallel">
                 <div className="left shadow round">
-                  <img src={drawing} alt="violin players" />
+                  <img src={orchestrafromabove} alt="violin players" />
                 </div>
                 <div className="right">
                   <p>
@@ -51,6 +51,9 @@ export default class Index extends Component {
                   <Link to="/concerts/">
                     Upcoming Concerts
                   </Link>
+                  <p>
+                      {`Saturday 28th November 2026 at the Reid Concert Hall.`}
+                  </p>
                 </div>
               </div>
               <hr />
